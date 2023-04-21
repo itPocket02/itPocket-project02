@@ -158,8 +158,7 @@
 				</form>
 			</div>
 		</div>
-	</div>
-	<nav id="app-footer" class="footer-container">
+		<nav id="app-footer" class="footer-container">
 			<div class="footer-container-row container">
 				<div class="col-content margin-bottom">
 					<p class="text contact">1599-5319</p>
@@ -280,7 +279,8 @@
 					</div>
 				</div>
 			</div>
-		</nav>
+		</nav>		
+	</div>
 </body>
 <script src="../../static/js/login.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>

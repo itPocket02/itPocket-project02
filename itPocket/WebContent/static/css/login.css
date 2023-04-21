@@ -52,12 +52,7 @@ body {
   letter-spacing: normal;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2 {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
@@ -169,7 +164,7 @@ textarea {
 
 .form-control.is-valid,
 .was-validated .form-control:valid {
-  border-color: #00c7ae;
+  border-color: #655DBB!important;
 }
 
 .custom-select.is-valid,
@@ -181,8 +176,8 @@ textarea {
 
 .btn-primary {
   color: #fff;
-  background-color: #00c7ae;
-  border-color: #00c7ae;
+  background-color: #655DBB!important;
+  border-color: #655DBB!important;
 }
 
 .btn {
